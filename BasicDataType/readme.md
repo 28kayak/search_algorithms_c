@@ -1,12 +1,12 @@
-#Basic Data Type 
-##File Despcription 
+# Basic Data Type 
+## File Despcription 
 - Euler_constant_calc.cpp --> calculate Euler constant 
 - type_conversion.cpp --> show the different result due to type mismatch
 
 
-##Execute 
+## Execute 
 
-###Execute type_conversion.cpp
+### Execute type_conversion.cpp
 ```sh
 $gcc type_conversion.cpp 
 type_conversion.cpp:42:31: warning: format specifies type 'double' but the argument has type 'int' [-Wformat]
@@ -40,7 +40,7 @@ $
 $
 ```
 
-###Execute Euler_constant_calc.cpp
+### Execute Euler_constant_calc.cpp
 ```sh
 $gcc Euler_constant_calc.cpp 
 $

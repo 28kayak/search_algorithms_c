@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <math.h>
 
-#define MAX 5000000
+#define MAX 50000000
 #define STEP 1000
 int main(){
     double s = 0.0;
