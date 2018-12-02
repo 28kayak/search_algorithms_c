@@ -9,7 +9,7 @@ In order to use the code,<font size="3" color="red">due to the license</font>, y
 |chapter| contents                  | Directory name |   
 |-------| --------------------------|:--------------:| 
 |1      |C言語の基礎と復習             |BasicDataType   | 
-|2      |再帰とフィボナッチ数          |-               |  
+|2      |再帰とフィボナッチ数          |-RecursiveCall  |  
 |3      |ランダム関数とシミュレーション |-                |  
 |4      |ポインタ入門                 |-               |
 |5      |ポインタの配列と構造体        |-               |

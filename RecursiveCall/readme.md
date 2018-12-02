@@ -6,7 +6,7 @@ In this program, there are two different function to caliculate the common facto
 - recursive call version : recursive_euclid_algorithm 
 - while-loop version     : euclid_algorithm  
 
-###Execution Result
+### Execution Result
 
 #### Case1: if greatest common is 1
 
