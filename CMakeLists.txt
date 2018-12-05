@@ -3,4 +3,4 @@ project(SearchAlgorithm)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(SearchAlgorithm main.cpp BasicDataType/1_3hardy_ramanujan_number.c)
+add_executable(SearchAlgorithm main.cpp )
