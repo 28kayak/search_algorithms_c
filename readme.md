@@ -22,6 +22,10 @@ In order to use the code,<font size="3" color="red">due to the license</font>, y
 ## Reference 
 - [CMake](https://qiita.com/shohirose/items/45fb49c6b429e8b204ac)
 - [Original Source Code](http://www.iba.t.u-tokyo.ac.jp/software/c_book/)
+- [Hardy-Ramanujan Number Math Approach1)](http://examist.jp/legendexam/2009-hitotubasi/)
+- [Hardy-Ramanujan Number Math Approach2 一橋大学２００９年入試問題)](http://aozoragakuen.sakura.ne.jp/kakomon/2009/09h101.htm)
+- [Hardy-Ramanujan Number Math Approach2 一橋大学２００９年入試問題　回答)](http://aozoragakuen.sakura.ne.jp/kakomon/2009/09h101a.htm)
+
 
 ## License 
 ソフトウェア等のご利用にあたって.   

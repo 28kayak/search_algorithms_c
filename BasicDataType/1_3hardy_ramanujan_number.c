@@ -10,10 +10,10 @@ int main()
 {
     int cube[LIMIT];              /* cube[i]にiの３乗を保存 */
     int sum_of_cube[LIMIT][LIMIT]; /* 立法数の和を保存する */
-    int i,j,m,n;                  /* ループカウンタ */
-    int flag;                     /* 3つの表し方がないかの判断フラグ */
-    int target;                   /* 総当り探索で使用 */
-    int answer,a1,a2,b1,b2;       /* 見つかった解を保存する変数 */
+    int i,j,m,n;                  /* loop counter */
+    int flag;                     /* flag */
+    int target;                   /* a target */
+    int answer,a1,a2,b1,b2;       /* solution */
     /* cubeに値を埋める */
     for(i = 0;i < LIMIT;i++){
         cube[i] = (i+1)*(i+1)*(i+1);

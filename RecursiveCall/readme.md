@@ -23,3 +23,9 @@ In this program, there are two different function to caliculate the common facto
 |recursive_euclid_algorithm|<font color="orange">28.000000</font> | 264123568 | 96| 16|
 |euclid_algorithm  | <font color="green"> 25.000000 </font> |  264123568 | 96|16|
 
+
+```Mathematica
+
+ 
+```
+
