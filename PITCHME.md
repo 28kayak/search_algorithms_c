@@ -15,3 +15,10 @@ hello world
 hey you
 
 ---
+
+### sample code 
+
+---?code=main2.cpp
+
+show main2.cpp
+---
