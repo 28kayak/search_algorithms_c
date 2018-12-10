@@ -1,4 +1,3 @@
-### 1page
 # SearchAlgorithm 
 ## Description 
 This project is to test source codes that is introduced on [the book](https://www.ohmsha.co.jp/book/9784274067303/). 
@@ -19,8 +18,7 @@ In order to use the code,<font size="3" color="red">due to the license</font>, y
 |8      |最適値の探索                |-                |
 |9      |GAを作る                   |-                |
 
----
-### 2page
+
 ## Reference 
 - [CMake](https://qiita.com/shohirose/items/45fb49c6b429e8b204ac)
 - [Original Source Code](http://www.iba.t.u-tokyo.ac.jp/software/c_book/)
