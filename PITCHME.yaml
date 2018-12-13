@@ -34,3 +34,6 @@ transition : fade
 
 #チャート / グラフ機能の設定
 charts : true
+
+#Add code line number
+code-line-numbers : true
